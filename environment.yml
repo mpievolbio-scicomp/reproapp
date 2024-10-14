@@ -1,0 +1,6 @@
+
+channels:
+  - nodefaults
+  - conda-forge
+dependencies:
+  - apptainer>=8.0.0
